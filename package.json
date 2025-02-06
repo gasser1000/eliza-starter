@@ -40,7 +40,8 @@
   },
   "pnpm": {
     "overrides": {
-      "onnxruntime-node": "1.20.0"
+      "onnxruntime-node": "1.20.0",
+      "@elizaos/*": "0.1.9"
     }
   },
   "devDependencies": {
